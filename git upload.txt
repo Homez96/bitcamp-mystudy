@@ -1,0 +1,4 @@
+git으로 깃허브에 자료를 올릴 때
+$ git add .
+$ git commit -m "백업내용"
+$ git push
